@@ -14,7 +14,7 @@ Make sure you have the following installed:
 - Node.js
 - MongoDB Atlas
 
-### Notice inside of the backend folder there is a .env file which contains the PORT variable which is the port the backend server will run on. Additionaly there is a MONGO_URI variable which the user will have to replace the username and password with his own mongoDB atlas user name and password before running the app
+### Notice inside of the backend folder there is a .env file which contains the PORT variable which is the port the backend server will run on. Additionaly there is a MONGO_URI variable which the user will have to put in his own mongoDB atlas URI before running the app
 
 ### Installation
 
